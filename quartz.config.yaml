@@ -28,7 +28,7 @@ configuration:
         dark: "#2b2b2b"
         secondary: "#284b63"
         tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        highlight: rgba(143, 159, 169, 0.0)
         textHighlight: "#fff23688"
       darkMode:
         light: "#161618"
@@ -252,7 +252,7 @@ plugins:
   - source: "@quartz-community/note-properties"
     enabled: true
     options:
-      includeAll: false
+      includeAll: true
       includedProperties:
         - description
         - tags
@@ -279,22 +279,6 @@ plugins:
       showFolderCount: true
       showSubfolders: true
     order: 50
-  - source: github:quartz-community/note-properties
-    enabled: true
-    options:
-      includeAll: false
-      includedProperties:
-        - description
-        - tags
-        - aliases
-      excludedProperties: []
-      hidePropertiesView: false
-      delimiters: ---
-      language: yaml
-    order: 5
-    layout:
-      position: beforeBody
-      priority: 15
   - source: github:quartz-community/bases-page
     enabled: true
     options:
