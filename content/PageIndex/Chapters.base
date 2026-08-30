@@ -6,7 +6,7 @@ views:
   - type: table
     name: All Chapters
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
@@ -29,7 +29,7 @@ views:
       and:
         - file.tags.contains("core_crisis")
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
@@ -48,7 +48,7 @@ views:
       and:
         - Arc.contains("Eternal Nightmare")
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name

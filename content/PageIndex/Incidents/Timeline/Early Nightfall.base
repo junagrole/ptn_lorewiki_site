@@ -8,7 +8,7 @@ views:
   - type: table
     name: All Incidents
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
@@ -29,7 +29,7 @@ views:
       and:
         - Major == true
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
@@ -48,7 +48,7 @@ views:
       and:
         - Major == false
     groupBy:
-      property: N.F.
+      property: NF
       direction: ASC
     order:
       - file.name
