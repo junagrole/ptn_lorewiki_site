@@ -2,8 +2,8 @@ filters:
   and:
     - '!file.inFolder("Templates")'
     - Content == "Incident"
-    - note["N.F."] >= 103
-    - note["N.F."] <= 111
+    - note["N.F."] >= 85
+    - note["N.F."] <= 102
 views:
   - type: table
     name: All Incidents
@@ -12,8 +12,8 @@ views:
       direction: ASC
     order:
       - file.name
-      - month
-      - day
+      - Month
+      - Day
       - Kind
       - Short
     sort:
@@ -23,7 +23,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 265
-      note.Kind: 111
+      note.Kind: 105
   - type: table
     name: Only Major Incidents
     filters:
@@ -34,8 +34,8 @@ views:
       direction: ASC
     order:
       - file.name
-      - month
-      - day
+      - Month
+      - Day
       - Kind
       - Short
     sort:
@@ -53,8 +53,8 @@ views:
       direction: ASC
     order:
       - file.name
-      - month
-      - day
+      - Month
+      - Day
       - Kind
       - Short
     sort:

@@ -1,7 +1,7 @@
 filters:
   and:
-    - content == "Chapter"
-    - arc.contains(link("Rustfire"))
+    - Content == "Chapter"
+    - Arc.contains(link("Rustfire"))
 views:
   - type: table
     name: Overview

@@ -1,7 +1,7 @@
 filters:
   and:
-    - content == "Chapter"
-    - arc.contains(link("Hella's Adventure"))
+    - Content == "Chapter"
+    - Arc.contains(link("Hella's Adventure"))
 views:
   - type: table
     name: Overview
