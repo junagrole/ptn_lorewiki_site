@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: PTN Lore Fanwiki
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
-  locale: en-US
+    provider: null
+  locale: en-GB
   baseUrl: junagrole.github.io/ptn_lorewiki_site
   ignorePatterns:
     - private
@@ -272,6 +272,34 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
+    order: 50
+  - source: github:quartz-community/folder-page
+    enabled: true
+    options:
+      showFolderCount: true
+      showSubfolders: true
+    order: 50
+  - source: github:quartz-community/note-properties
+    enabled: true
+    options:
+      includeAll: false
+      includedProperties:
+        - description
+        - tags
+        - aliases
+      excludedProperties: []
+      hidePropertiesView: false
+      delimiters: ---
+      language: yaml
+    order: 5
+    layout:
+      position: beforeBody
+      priority: 15
+  - source: github:quartz-community/bases-page
+    enabled: true
+    options:
+      defaultViewType: table
+      linkResolution: shortest
     order: 50
 layout:
   groups:

@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "bases-page": {
+      "source": "github:quartz-community/bases-page",
+      "resolved": "https://github.com/quartz-community/bases-page.git",
+      "commit": "db114afd1005669b7440b8770603df767147e200",
+      "installedAt": "2026-08-30T10:36:51.344Z"
+    },
+    "folder-page": {
+      "source": "github:quartz-community/folder-page",
+      "resolved": "https://github.com/quartz-community/folder-page.git",
+      "commit": "213a8e98c4347aca9013c0dd5a15bc80a1dca604",
+      "installedAt": "2026-08-30T10:34:13.104Z"
+    },
+    "note-properties": {
+      "source": "github:quartz-community/note-properties",
+      "resolved": "https://github.com/quartz-community/note-properties.git",
+      "commit": "e68145b9f11b31d3168ed2755bd74f36a67dbed7",
+      "installedAt": "2026-08-30T10:34:56.096Z"
+    }
+  }
+}
