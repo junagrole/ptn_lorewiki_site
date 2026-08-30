@@ -1,0 +1,69 @@
+filters:
+  and:
+    - content == "Chapter"
+    - arc.contains(link("Rustfire"))
+views:
+  - type: table
+    name: Overview
+    groupBy:
+      property: Category
+      direction: ASC
+    order:
+      - file.name
+      - short
+    sort:
+      - property: N.F.
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+    columnSize:
+      file.name: 169
+  - type: table
+    name: Timeline
+    groupBy:
+      property: N.F.
+      direction: ASC
+    order:
+      - file.name
+      - day
+      - month
+      - type
+      - short
+    sort:
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+    columnSize:
+      file.name: 169
+      note.Day: 73
+      note.type: 112
+  - type: table
+    name: Details
+    groupBy:
+      property: state
+      direction: ASC
+    order:
+      - file.name
+      - day
+      - month
+      - N.F.
+      - Category
+      - file.ctime
+      - file.mtime
+      - tags
+    sort:
+      - property: N.F.
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+    columnSize:
+      file.name: 169
+      note.N.F.: 73
+      note.type: 112
+      file.ctime: 166
+      file.mtime: 169

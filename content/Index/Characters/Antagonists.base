@@ -1,0 +1,20 @@
+filters:
+  and:
+    - Content == "Character"
+    - Storyrole == "Antagonist"
+properties:
+  note.sinner:
+    displayName: Sinner
+views:
+  - type: table
+    name: Overview
+    groupBy:
+      property: Affiliation
+      direction: ASC
+    order:
+      - file.name
+      - Gender
+      - sinner
+      - Short
+    columnSize:
+      note.Affiliation: 115

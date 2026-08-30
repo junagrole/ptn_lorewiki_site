@@ -1,0 +1,7 @@
+---
+publish: true
+created: 2026-05-04T21:28:29.014Z
+modified: 2026-05-04T21:28:29.014Z
+---
+
+Used to observe [[Deep Mania]]
