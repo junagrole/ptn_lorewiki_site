@@ -1,0 +1,64 @@
+filters:
+  and:
+    - content == "chapter"
+    - file.folder != "Templates"
+views:
+  - type: table
+    name: All Chapters
+    groupBy:
+      property: N.F.
+      direction: ASC
+    order:
+      - file.name
+      - month
+      - day
+      - Category
+      - Short
+    sort:
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+    columnSize:
+      note.Month: 99
+      note.Day: 71
+      note.type: 145
+  - type: table
+    name: Core Crisis
+    filters:
+      and:
+        - file.tags.contains("core_crisis")
+    groupBy:
+      property: N.F.
+      direction: ASC
+    order:
+      - file.name
+      - month
+      - day
+      - arc
+    sort:
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
+  - type: table
+    name: Eternal Nightmare
+    filters:
+      and:
+        - type == "Eternal Nightmare"
+    groupBy:
+      property: N.F.
+      direction: ASC
+    order:
+      - file.name
+      - N.F.
+      - month
+      - day
+      - short
+    sort:
+      - property: year
+        direction: ASC
+      - property: month
+        direction: ASC
+      - property: day
+        direction: ASC
