@@ -1,8 +1,17 @@
 ---
-publish: true
+Tags:
+  - independence_war
+  - edge
+  - paradeisos
+  - scientist
 aliases:
   - EDGE intern
   - Baldie
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-08-17T15:54:09.413Z
+Short: Senior EDGE scientist, instrumental in DisCities independence. At a later date underwent a procedure to remove emotions
+Sinner: false
+Gender: Male
+Affiliation: "[[EDGE]]"
+Storyrole: Supporting
+State: Created
+Content: Character
 ---

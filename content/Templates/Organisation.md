@@ -1,5 +1,10 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.969Z
-modified: 2026-05-04T21:28:28.969Z
+Tags:
+Short:
+Structure:
+Purpose:
+Leadership:
+Headquarters:
+State: Created
+Content: Organisation
 ---

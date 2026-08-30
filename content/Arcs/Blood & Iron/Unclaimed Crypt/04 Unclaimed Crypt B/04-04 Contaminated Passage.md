@@ -1,9 +1,14 @@
 ---
-publish: true
-created: 2026-08-24T14:03:38.405Z
-modified: 2026-08-24T14:30:18.111Z
+Tags:
+Short: Reaching the exit, Nightmare collapses it to block the enemies form following. From the edge of a large pit the team can see the stone altar containing the Inheritance in the centre.
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous: "[[04-03 Message]]"
+Next: "[[04-05 Abyssal Sarcophagus]]"
+State: Review
+Content: Stage
 ---
-
 The [[Inheritance]] is resonating with both the [[Corruptors]] and the [[Mania Weapon]] bringing forth extremely powerful contamination.
 
 Fighting their way to the exit of the passageway [[Nightmare]] brings down the ceiling blocking out the Corruptors. Before them is a pit nearly 100 meters in diameter, a path spirals down to a floating island at the centre.

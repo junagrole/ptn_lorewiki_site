@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - discity
+  - paradeisos
+  - espionage
+Short:
+Structure: Agency
+Purpose: Intelligence
+Leadership:
+Headquarters: "[[DisCity]]"
+State: Created
+Content: Organisation
 ---

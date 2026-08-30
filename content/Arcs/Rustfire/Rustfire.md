@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.963Z
-modified: 2026-05-04T21:28:28.963Z
+Tags:
+  - inner_bay
+  - black_ring
+  - paradeisos
+  - west_district
+Short:
+N.F.: 112
+Month: 11
+Day:
+State: Created
+Content: Arc
 ---

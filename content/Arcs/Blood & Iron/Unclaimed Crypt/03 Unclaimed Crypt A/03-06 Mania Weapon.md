@@ -1,14 +1,19 @@
 ---
-publish: true
-created: 2026-08-22T21:19:23.340Z
-modified: 2026-08-24T21:48:03.681Z
+Tags:
+Short: Betrayed by their own allies the Gonzales get turned into Corruptors by Mania Weapons. The Legions pursuit allows Chief to make contact with Yagyu, one of the smarter gangs.
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous: "[[03-05 Feast of Violence]]"
+Next: "[[03-07 Proposal]]"
+State: Review
+Content: Stage
 ---
-
 While [[Zoya]] handles the gang ambush the MBCC team examines the [[Mania Weapon]] [[Thou Voodoo]] was using. A cane with a [[Mania Crystal]] embedded in it's head.
 
 [[Earl]] helpfully gives some background. These weapons are used by Syndicate gangs to imitate the power of Sinners. The more bloodthirsty the wielder, the stronger the Mania power. The user themselves are only subject to mild contamination, since the majority of it is inflicted on the victim.
 
-Meanwhile the [[Red Falcon]] members demonstrate the effect of this property. Shooting at [[The Legion]] and their allied [[Gonzales]] at the same time they turn the gang members into [[Corruptors]] to slow down the advance of the Legionaries.
+Meanwhile the [[Red Falcon]] members demonstrate the effect of this property. Shooting at [[The Legion]] and their allied [[Gonzales]] at the same time they turn the gang members into [[Corruptors]] to slow down the advance of the Legionaries. 
 
 With Zoya rushing after the Red Falcon, her troops are getting cornered by Corruptors. Picking a fight with [[Hella]] Earl conscripts the team to hold the rear for the Legion.
 

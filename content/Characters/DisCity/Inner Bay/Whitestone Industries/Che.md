@@ -1,5 +1,16 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Tags:
+  - sinner/b_class
+  - underground
+  - whitestone
+  - drifter_camp
+  - driver
+  - mbcc
+Short: Whitestone member, defected from the underground
+Sinner: true
+Gender: Male
+Affiliation: Whitestone
+Storyrole: Background
+State: Created
+Content: Character
 ---

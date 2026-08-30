@@ -1,5 +1,17 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.963Z
-modified: 2026-05-04T21:28:28.963Z
+Tags:
+  - core_crisis
+  - inner_bay
+  - west_district
+  - paradeisos
+  - underground
+Short:
+Arc:
+  - "[[Rustfire]]"
+Category: Main Story
+N.F.: 113
+Month: 11
+Day: 22
+State: Created
+Content: Chapter
 ---

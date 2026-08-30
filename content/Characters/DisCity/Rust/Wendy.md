@@ -1,5 +1,14 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Tags:
+  - sinner/a_class
+  - fac
+  - rust
+  - mbcc
+Short: Only survivor of the Undertakers, still hunts Corruptors in the Rust
+Sinner: true
+Gender: Female
+Storyrole: Background
+State: Created
+Content: Character
+Affiliation: "[[FAC]]"
 ---

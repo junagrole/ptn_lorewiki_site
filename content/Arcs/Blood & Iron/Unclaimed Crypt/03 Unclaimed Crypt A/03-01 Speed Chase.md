@@ -1,9 +1,16 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.962Z
-modified: 2026-08-24T14:10:21.667Z
+Tags:
+  - divergence
+Short: The MBCC squad is fleeing from Ninenty-Nine and the Legion
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous:
+  - "[[02-12-RE Choices]]"
+Next: "[[03-02 Highway Battle]]"
+State: Review
+Content: Stage
 ---
-
 Pursued by [[Ninety-Nine]] on a motorbike the group can only speed down the streets of Syndicate to escape. With [[Che]] driving [[Hecate]] and [[Hella]] speculate why the Legion is after them.
 The argument and the escape are cut short by a swarm of gangsters fleeing in the opposite direction.
 

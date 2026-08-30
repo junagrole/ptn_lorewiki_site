@@ -1,5 +1,15 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - paradeisos
+  - discity
+  - politics
+  - research
+  - reason
+Short:
+Structure: Secret Society
+Purpose: Anti Mania
+Leadership: "[[EDGE]]"
+Headquarters: "[[DisCity]]"
+State: Created
+Content: Organisation
 ---

@@ -1,5 +1,9 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - hypercubes
+Short: Protected by anti calamity devices these routes provide relative safe travel through White Sands for Trade Convoys.
+Area: "[[White Sands]]"
+Size: Route
+State: Created
+Content: Location
 ---

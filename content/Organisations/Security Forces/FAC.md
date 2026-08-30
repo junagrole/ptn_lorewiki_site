@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - paradeisos
+  - mania
+  - fac
+Short:
+Structure: Military
+Purpose: Anti Mania
+Leadership: "[[Adrian Sterling]]"
+Headquarters: "[[DisSea]]"
+State: Created
+Content: Organisation
 ---

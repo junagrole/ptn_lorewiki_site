@@ -1,5 +1,15 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.965Z
-modified: 2026-05-04T21:28:28.965Z
+Tags:
+  - west_district
+  - politics
+  - discity
+  - city_council
+Short: The city council chooses to abandon the West District to gang control and takes away their citizen rights
+Major: true
+Kind: Politics
+N.F.: 99
+Month:
+Day:
+State: Created
+Content: Incident
 ---

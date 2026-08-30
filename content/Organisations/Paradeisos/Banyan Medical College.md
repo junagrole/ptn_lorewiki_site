@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - paradeisos
+  - eastside
+  - medical
+Short: Primary and prestigious medical school of DisCity
+Structure: University
+Purpose: Hospital
+Leadership: Dean
+Headquarters: "[[Eastside]]"
+State: Created
+Content: Organisation
 ---

@@ -1,10 +1,18 @@
 ---
-publish: true
+Tags:
+  - mystery
+  - shepherd
+  - mbcc
 aliases:
   - SHP-13
   - Our adorable Shepherd
   - Dummy
   - Little Sister
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Short: Leader of the MBCC, Paradeisos Shepherd with a mysterious past
+Sinner: false
+Gender: Female
+Affiliation: "[[Organisations/Security Forces/MBCC|MBCC]]"
+Storyrole: Protagonist
+State: Created
+Content: Character
 ---

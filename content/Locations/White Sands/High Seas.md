@@ -1,5 +1,8 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+Short: White Sands outside the protection of DisCity and it's trade routes. Ravaged by sand storms, desert pirates and calamities. Few live here by choice or survive.
+Area: "[[White Sands]]"
+Size: Region
+State: Created
+Content: Location
 ---

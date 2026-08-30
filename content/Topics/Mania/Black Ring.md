@@ -1,5 +1,6 @@
 ---
-publish: true
-created: 2026-05-04T21:28:29.013Z
-modified: 2026-05-04T21:28:29.013Z
+Tags:
+  - metaphysics/black_ring
+State: Created
+Content: Topic
 ---

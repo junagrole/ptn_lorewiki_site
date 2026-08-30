@@ -1,5 +1,17 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.962Z
-modified: 2026-05-04T21:28:28.962Z
+Tags:
+  - core_crisis
+  - fraser
+  - fac
+  - discorps
+  - black_ring
+Short:
+Arc:
+  - "[[Precarious Polis]]"
+Category: Main Story
+N.F.: 115
+Month: 5
+Day: 23
+State: Created
+Content: Chapter
 ---

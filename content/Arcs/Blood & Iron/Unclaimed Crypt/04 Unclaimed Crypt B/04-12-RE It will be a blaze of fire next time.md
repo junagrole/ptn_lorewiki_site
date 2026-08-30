@@ -1,11 +1,16 @@
 ---
-publish: true
 aliases:
   - 04-12-RE It'll be a blaze of fire next time
-created: 2026-08-25T16:37:03.258Z
-modified: 2026-08-25T17:14:14.604Z
+Tags:
+Short: At the Legions base camp MBCC arrives. Zoya agrees to the negotiation offer by the PSB before setting the Crypt on fire. Both parties plan to take on the conspirators behind the Inheritance.
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous: "[[04-12 The Dark Feast]]"
+Next:
+State: Review
+Content: Stage
 ---
-
 At [[The Legion]] base camp the team can finally reach [[Organisations/Security Forces/MBCC|MBCC]] after **47 hours without contact**.
 [[Nightingale]] starts an investigation into the [[Inheritance]] and arranges a pick up for the team.
 
@@ -18,9 +23,10 @@ But Nightingales arrives ahead of schedule, visibly relieved her Chief is safe. 
 
 Though sceptical Zoya agrees to a meeting, while she keeps hold of the sealed Inheritance.
 
-After the MBCC helicopter left, [[Che]] comes out of hiding to collect payment from Earl for intel provided. The reason he helped the team escape was to spy on them during the escape.
+After the MBCC helicopter left, [[Che]] comes out of hiding to collect payment from Earl for intel provided. The reason he helped the team escape was to spy on them during the escape. 
 Earl is curious why the price is uncharacteristically low. [[Bai Yi]] lost the [[White Cube]] and [[K.K.]] in the operation. But Che only deflects the question, the cube was meant to used for this and one employees less is also one paycheck less, even asking for a good review for [[Whitestone Industries]]. With Earl clearly buying none of it, Che reveals that K.K. is gonna be safer with MBCC. While they managed to seal the Inheritance, this is just the beginning.
 
 Still bothered by [[Subject R]], Chief decides to stay in Syndicate until the negotiation is over, while Nightingale finds out who fed them bad intel.
 
 Ready to move on the Legion sets the [[Crypt]] on fire, destroying all [[Mania Weapon]] and [[Mania Crystal]]. Horo and the retrieved documents are brought into a safe house. Zoya is determined to follow up on the lead Horo risked her life for. To finally change Syndicate.
+

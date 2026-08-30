@@ -1,9 +1,15 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.961Z
-modified: 2026-05-04T21:28:28.961Z
+Tags:
+Short:
+Pov:
+  - Chief
+Chapter: "[[SALVA Chaos]]"
+Previous:
+  - "[[02-12 Salva Chaos]]"
+Next:
+State: Complete
+Content: Stage
 ---
-
 In front of the lobotomised gangsters you confront [[Dr. Iron]] about her methods. For her it's not just about people like [[Ted]], it's about treating the whole of [[Syndicate]]. As long as the violence among the gangs continues, [[Mania]] will never be contained.
 
 This shouldn't rest on her shoulders, but the [[City Council]] just abandoned Syndicate with the [[West District Management Regulations]], leaving Syndicans no other choice but to deal with it themselves as best as they can. She is committed to this ideal to a frightening level.

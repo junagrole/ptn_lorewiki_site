@@ -1,13 +1,16 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.960Z
-modified: 2026-05-04T21:28:28.960Z
+Tags:
+Chapter: "[[Prologue]]"
+Next: "[[00-04 Beginning]]"
+Previous: "[[00-02 Shadow]]"
+Pov:
+  - Chief
+State: Review
+Content: Stage
 ---
-
 You find yourself back in the flower field, whispering to someone:
-
-> [!cite] Chief?
-> "Come here, Hecate. This isn't over. We agreed..."
+>[!cite] Chief?
+>"Come here, Hecate. This isn't over. We agreed..."
 
 The person reaches out with a hand covered in black bandages while the blue field turns red. When you try to take the hand the dream fractures.
 

@@ -1,5 +1,12 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.965Z
-modified: 2026-05-04T21:28:28.965Z
+Tags:
+  - independence_war
+Short: Catherine and the Reaper unit intercept a nuclear strike headed for DisCity
+Major: true
+Kind: Operation
+N.F.: 68
+Month: 10
+Day: 7
+State: Created
+Content: Incident
 ---

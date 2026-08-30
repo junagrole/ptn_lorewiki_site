@@ -1,8 +1,18 @@
 ---
-publish: true
+Tags:
+  - sinner/s_class
+  - fraser
+  - campbell
+  - scientist
+  - aurum_secretum
 aliases:
   - Hypatia Campbell
   - Hypa
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Short: The only good Campbell, genius Aurum Secretum researcher, friends with Hella
+Sinner: true
+Gender: Female
+Affiliation: "[[Fraser]]"
+Storyrole: Protagonist
+State: Created
+Content: Character
 ---

@@ -1,5 +1,6 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.969Z
-modified: 2026-05-04T21:28:28.969Z
+Tags:
+  - metaphysics/apostle
+State: Created
+Content: Topic
 ---

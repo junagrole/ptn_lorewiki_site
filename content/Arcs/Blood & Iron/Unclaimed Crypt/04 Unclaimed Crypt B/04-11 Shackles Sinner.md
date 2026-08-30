@@ -1,15 +1,19 @@
 ---
-publish: true
 aliases:
   - "04-11 Shackles: Sinner"
-created: 2026-08-25T15:40:33.176Z
-modified: 2026-08-25T16:12:41.889Z
+Tags:
+Short: Convinced by Chiefs courage Zoya teams up with the squad and frees all four of them from the contamination. Now they have to face the Inheritance itself.
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous: "[[04-10-RE Bewitchment]]"
+Next: "[[04-12 The Dark Feast]]"
+State: Review
+Content: Stage
 ---
-
 Chief using the [[Shackles]] to restrict [[Zoya]] terrifies [[Hecate]] and [[Hella]]. But [[Earl|Earl's]] mania bomb doesn't explode, apparently he has to manually trigger it. The relief is short lived though.
 
 Under the influence of the [[Inheritance]] the Shackles begin to weaken, it urges Zoya to break free and devour Chief. Zoya accuses her of wanting to use the Inheritance herself, but is rebuffed by [[Chief]].
-
 > [!cite] Chief
 > There is something that I can't forgive, so I have to fight it.
 > Mania has brought about countless misfortunes. No one should be allowed to use it to make bigger disasters. I dread it.
@@ -20,3 +24,4 @@ Contamination takes on the form of Horo and tries to straggle Chief, demanding Z
 
 Carrying the team and Horo to safety, Zoya admires Chiefs courage. Horo, writhing in agony is finally freed from the control of the Inheritance, collapsing into Zoyas arms.
 Confident that Horo will make it trough this, Zoya turns her attention to the altar.
+

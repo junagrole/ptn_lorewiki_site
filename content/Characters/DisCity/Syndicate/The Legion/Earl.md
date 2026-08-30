@@ -1,5 +1,12 @@
 ---
-publish: true
-created: 2026-08-20T22:41:36.659Z
-modified: 2026-08-20T22:43:20.927Z
+Tags:
+  - deceased
+  - legion
+Short: Horros older brother and Zoya second in command. Sacrificed himself to give Zoya a chance to escape from BR004
+Sinner: true
+Gender: Male
+Affiliation: "[[The Legion]]"
+Storyrole: Supporting
+State: Created
+Content: Character
 ---

@@ -1,5 +1,11 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Tags:
+  - deceased
+Short: Abused by Ted, she was turned into a weapon. Chief was unable to save her.
+Sinner: true
+Gender: Female
+Storyrole: Antagonist
+State: Created
+Content: Character
+Affiliation: SALVA
 ---

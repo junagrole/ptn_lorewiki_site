@@ -1,5 +1,11 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.967Z
-modified: 2026-05-04T21:28:28.967Z
+Tags:
+  - eastside
+  - discity
+  - city_council
+Short: The administrative and cultural centre of DisCity. Very sheltered from Mania and calamities.
+Area: "[[DisCity]]"
+Size: District
+State: Created
+Content: Location
 ---

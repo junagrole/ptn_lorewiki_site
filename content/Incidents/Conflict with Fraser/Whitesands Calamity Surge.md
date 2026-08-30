@@ -1,5 +1,16 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.965Z
-modified: 2026-05-04T21:28:28.965Z
+Tags:
+  - fraser
+  - fac
+  - apostle
+  - white_sands
+  - calamity
+Short: A weaponized tide of Ashes devastates FAC outposts
+Major: true
+Kind: Calamity
+N.F.: 115
+Month: 8
+Day: 5
+State: Created
+Content: Incident
 ---

@@ -1,5 +1,16 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.963Z
-modified: 2026-05-04T21:28:28.963Z
+Tags:
+  - independence_war
+  - tide_of_ashes
+  - calamity
+  - battle
+Short:
+Pov:
+  - "[[Brock]]"
+Chapter: "[[Shattered Blade]]"
+Previous:
+  - "[[H1-02 Nirvana Port]]"
+Next:
+State: Created
+Content: Stage
 ---

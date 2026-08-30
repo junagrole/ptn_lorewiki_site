@@ -1,9 +1,14 @@
 ---
-publish: true
-created: 2026-08-24T13:27:56.625Z
-modified: 2026-08-24T13:50:31.965Z
+Tags:
+Short: Narrowly escaping death the team reaches the bottom level. They have to hurry trough the extreme contamination to beat Zoya to the Inheritance.
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous: "[[04-01 To The Abyss]]"
+Next: "[[04-03 Message]]"
+State: Review
+Content: Stage
 ---
-
 With the elevator rapidly descending down the shaft enemies can only chase from above. [[Hecate]] speculates that someone is controlling the [[Corruptors]] as explanation for their abnormal behaviour.
 
 Finally the mad descent ends with the elevator crushing into the bottom of the shaft. Thanks to the contaminating spikes melting along the way the resulting sludge acted as a buffer, leaving the team only with minor injuries.

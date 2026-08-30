@@ -1,5 +1,9 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - discity
+Short: Smaller settlements surrounding DisCity, under the cities jurisdiction
+Area: "[[White Sands]]"
+Size: District
+State: Created
+Content: Location
 ---

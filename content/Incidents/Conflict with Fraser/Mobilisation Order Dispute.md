@@ -1,5 +1,14 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.965Z
-modified: 2026-05-04T21:28:28.965Z
+Tags:
+  - discity
+  - city_council
+  - politics
+Short:
+Major: false
+Kind: Politics
+N.F.: 115
+Month: 7
+Day: 27
+State: Created
+Content: Incident
 ---

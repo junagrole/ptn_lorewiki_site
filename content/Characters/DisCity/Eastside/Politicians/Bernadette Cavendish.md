@@ -1,7 +1,16 @@
 ---
-publish: true
+Tags:
+  - city_council
+  - politics
+  - paradeisos
+  - edge
 aliases:
   - EDGE 05
-created: 2026-05-04T21:28:28.963Z
-modified: 2026-05-04T21:28:28.963Z
+Short: Former speaker candidate, now supervises the city council for EDGE
+Sinner: false
+Gender: Female
+Affiliation: "[[EDGE]]"
+Storyrole: Supporting
+State: Created
+Content: Character
 ---

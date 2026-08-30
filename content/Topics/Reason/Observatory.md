@@ -1,7 +1,9 @@
 ---
-publish: true
-created: 2026-05-04T21:28:29.014Z
-modified: 2026-05-04T21:28:29.014Z
+Tags:
+  - paradeisos
+  - metaphysics/reason
+  - metaphysics/black_ring
+State: Created
+Content: Topic
 ---
-
 Used to observe [[Deep Mania]]

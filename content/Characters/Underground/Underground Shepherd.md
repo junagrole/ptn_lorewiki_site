@@ -1,9 +1,17 @@
 ---
-publish: true
+Tags:
+  - shepherd
+  - underground
 aliases:
   - Big Sis
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Short: Consumes ripe corpuses, Chiefs self proclaimed big sister, frightening Shackle wielder
+Sinner: false
+Gender: Female
+Affiliation: "[[Underground]]"
+Storyrole: Antagonist
+Content: Character
+State: Created
 ---
+
 
 The [[Underground]] [[Shackles]] holder. Calls [[Chief]] her "little sister".

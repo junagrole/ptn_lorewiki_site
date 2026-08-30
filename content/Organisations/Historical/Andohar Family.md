@@ -1,5 +1,10 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+Short: Arms dealers from the Metropoles. sided with DisCity when they started winning and are now part of the Eastside elites.
+Structure: Family
+Purpose: Business
+Leadership: "[[Catherine Augustus Andohar]]"
+Headquarters: "[[Eastside]]"
+State: Created
+Content: Organisation
 ---

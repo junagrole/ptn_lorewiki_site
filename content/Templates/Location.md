@@ -1,5 +1,8 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.969Z
-modified: 2026-05-04T21:28:28.969Z
+Tags:
+Short:
+Area:
+Size:
+State: Created
+Content: Location
 ---

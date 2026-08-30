@@ -1,9 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.960Z
-modified: 2026-05-04T21:28:28.960Z
+Tags:
+Pov:
+  - Chief
+Chapter: "[[SALVA Chaos]]"
+Previous: "[[01-08 The Battle of SALVA]]"
+Next: "[[01-09-RE Reunited at SALVA]]"
+State: Complete
+Content: Stage
 ---
-
 Facing [[Dr. Brand]] again [[Ted]] promptly shoots the doctor before anyone could stop him. But the bullet is stopped by a black smoke. [[Hecate]] warns you that his power is much stronger than a regular [[Maniacs]].
 
 Murmuring to himself about saving his colleagues Gray, Han and [[Laura]], he turns into a [[Corruptors|Corruptor]] before your eyes. Black spikes shoot out of him and twist his body into a troll like figure. Barely capable of speech, only driven by the urge to punish those who hurt his team.

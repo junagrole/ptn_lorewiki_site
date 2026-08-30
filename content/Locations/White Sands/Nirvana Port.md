@@ -1,5 +1,10 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - discity
+  - destroyed
+Short: Former trading port of DisCity, build to ship Hypercubes to the Metropoles. Got destroyed by a nuclear strike during the war of independence.
+Area: "[[DisCity]]"
+Size: Facility
+State: Created
+Content: Location
 ---

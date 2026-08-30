@@ -1,5 +1,12 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.965Z
-modified: 2026-05-04T21:28:28.965Z
+Tags:
+  - independence_war
+Short:
+Major: false
+Kind: Operation
+N.F.: 62
+Month: 12
+Day: 23
+State: Created
+Content: Incident
 ---

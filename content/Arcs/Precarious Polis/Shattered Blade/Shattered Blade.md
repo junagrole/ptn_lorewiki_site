@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.963Z
-modified: 2026-05-04T21:28:28.963Z
+Tags:
+  - core_crisis
+Short:
+Arc:
+  - "[[Precarious Polis]]"
+Category: Main Event
+N.F.: 115
+Month:
+Day:
+State: Created
+Content: Chapter
 ---

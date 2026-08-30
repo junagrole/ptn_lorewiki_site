@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.965Z
-modified: 2026-05-04T21:28:28.965Z
+Tags:
+  - calamity
+  - mystery
+Short: An asteroid strikes the city of Maria, spreading calamities all over the world
+Major: true
+Kind: Calamity
+N.F.: 1
+Month: 12
+Day: 12
+State: Created
+Content: Incident
 ---

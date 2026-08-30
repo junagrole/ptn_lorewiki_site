@@ -1,5 +1,14 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Tags:
+  - sinner/b_class
+  - mbcc
+  - whitestone
+  - drifter_camp
+Short: Only hard working member of Whitestone, in the dark about her partners past
+Sinner: true
+Gender: Female
+Storyrole: Background
+State: Created
+Content: Character
+Affiliation: Whitestone
 ---

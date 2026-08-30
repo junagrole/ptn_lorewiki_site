@@ -1,5 +1,10 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.969Z
-modified: 2026-05-04T21:28:28.969Z
+Tags:
+Short:
+Pov:
+Chapter:
+Previous:
+Next:
+State: Created
+Content: Stage
 ---

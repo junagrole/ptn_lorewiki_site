@@ -1,5 +1,9 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - fraser
+Short: The western continent outside White Sands. Dotted with smaller cities that struggle to withstand the calamities. Dominated by Fraser.
+Area: Western Continent
+Size: Region
+State: Created
+Content: Location
 ---

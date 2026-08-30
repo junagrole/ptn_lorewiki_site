@@ -1,13 +1,17 @@
 ---
-publish: true
-created: 2026-08-23T18:04:55.390Z
-modified: 2026-08-23T18:39:22.173Z
+Tags:
+Short: The team finds a product of Parmas experiments on Ninenty-Nine in mania weapon crates. Under the influence of the Inheritance the weapons go berserk.
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous: "[[03-10 Sense]]"
+Next: "[[03-12 Type-99]]"
+State: Review
+Content: Stage
 ---
-
 With [[Zoya]] being underground and Chief temporarily safe [[Hecate]] proposes to return to the MBCC to remove [[Earl|Earls]] bomb. But Chief wants to continue the search for [[Subject R]] and find clues about the [[Inheritance]] and the producer of the [[Mania Weapon]].
 
 One of the weapon containers also holds a jar filled with a blood red liquid.
-
 > [!cite] Label
 > PARMA-Type 99
 

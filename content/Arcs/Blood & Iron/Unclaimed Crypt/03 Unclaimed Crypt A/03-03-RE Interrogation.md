@@ -1,9 +1,14 @@
 ---
-publish: true
-created: 2026-08-20T18:31:20.575Z
-modified: 2026-08-22T10:20:38.011Z
+Tags:
+Short: The commander of the Legion Zoya interrogates the captured MBCC Chief
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous: "[[03-03 Interception]]"
+Next: "[[03-04 Shackles In Hostage]]"
+State: Review
+Content: Stage
 ---
-
 Waking up inside a moving [[The Legion|Legion]] truck, Chief finds herself confronted by [[Zoya]], the leader of the Legion.  Zoya is well informed about Chief and the MBCC and immediately demands them to abandon their pursuit of the Sinner, one of her own crew.
 
 From Zoya we learn that [[Chief]] is genuinely new in her role and even she has no idea about our background. Still she has enough access to know about the [[Shackles]]. Now she wants to get the details on how they work.
@@ -19,7 +24,7 @@ Physical contact is required for the shackles to be established, but only the de
 > [!cite] Zoya
 > That's why those geezers picked her... She surely makes a good slave.
 
-The ability Zoya is most interested in is the corruption resistance the shackles provide.
+The ability Zoya is most interested in is the corruption resistance the shackles provide. 
 
 Denying the involvement of [[Dr. Iron]], she claims that the intel comes from an interrogation in one of the others vehicles.
 

@@ -1,5 +1,12 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.963Z
-modified: 2026-05-04T21:28:28.963Z
+Tags:
+  - independence_war
+  - military
+Short: White Sands Guerrillas founder, instigator of the independence movement
+Sinner: false
+Gender: Male
+Affiliation: "[[Independence Army]]"
+Storyrole: Historical
+State: Created
+Content: Character
 ---

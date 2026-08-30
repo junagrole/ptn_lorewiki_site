@@ -1,5 +1,12 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Tags:
+  - mystery
+  - missing
+Short: A mysterious shapeshifter and summoner that attacked the MBCC before vanishing without a trace
+Sinner: true
+Gender: Female
+Affiliation: Unknown
+Storyrole: Antagonist
+State: Created
+Content: Character
 ---

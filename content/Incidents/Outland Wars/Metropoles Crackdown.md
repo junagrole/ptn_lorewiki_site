@@ -1,5 +1,12 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.965Z
-modified: 2026-05-04T21:28:28.965Z
+Tags:
+  - independence_war
+Short:
+Major: true
+Kind: Attack
+N.F.: 66
+Month: 7
+Day: 22
+State: Created
+Content: Incident
 ---

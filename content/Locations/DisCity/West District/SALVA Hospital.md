@@ -1,5 +1,11 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.967Z
-modified: 2026-05-04T21:28:28.967Z
+Tags:
+  - salva
+  - west_district
+  - medical
+Short: The only proper hospital in Syndicate, the fortified building has many containment wards for mania patients
+Area: "[[Syndicate]]"
+Size: Facility
+Content: Location
+State: Created
 ---

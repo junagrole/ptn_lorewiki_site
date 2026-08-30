@@ -1,9 +1,17 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.965Z
-modified: 2026-05-04T21:28:28.965Z
+Tags:
+  - black_ring
+  - mystery
+  - dissea
+Short: An explosion in the DisSea contaminates much of the city and reveals BR000
+Major: true
+Kind: Black Ring
+N.F.: 84
+Month: 12
+Day: 22
+State: Created
+Content: Incident
 ---
-
 In N.F. 84.12.22 an explosion occurred in the [[DisSea]] region. Spreading [[Mania]] across the city. The initial explosion resulted in at least 97,231 [[Maniacs]].
 
 The incident was the first public Mania crisis, which led to the formation of the [[FAC]]. But there are only very limited information available about it.

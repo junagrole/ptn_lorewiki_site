@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.963Z
-modified: 2026-05-04T21:28:28.963Z
+Tags:
+  - independence_war
+Short:
+Pov:
+  - "[[Brock]]"
+Chapter: "[[Shattered Blade]]"
+Previous:
+Next:
+  - "[[H1-02 Nirvana Port]]"
+State: Created
+Content: Stage
 ---

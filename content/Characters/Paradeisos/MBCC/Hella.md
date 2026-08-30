@@ -1,5 +1,17 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Tags:
+  - sinner/b_class
+  - mbcc
+  - s_class
+  - scourge
+  - farlands
+  - black_ring
+  - contaminated
+Short: Chief's adopted daughter, has a foul mouth, heroic scam artist with a big heart. BR005 caused a second awakening. First Scourge Sinner at MBCC
+Sinner: true
+Gender: Female
+Affiliation: "[[Organisations/Security Forces/MBCC|MBCC]]"
+Storyrole: Protagonist
+State: Created
+Content: Character
 ---

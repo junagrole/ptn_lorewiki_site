@@ -1,15 +1,21 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.961Z
-modified: 2026-05-04T21:28:28.961Z
+Tags:
+  - core_crisis
+  - salva
+  - west_district
+Short: The trail of the fugitive Subject R leads to SALVA in Syndicate. Betrayed by their  ally Chief has to come to terms with not being able to save a young Sinner
+Arc: "[[Blood & Iron]]"
+Category: Main Story
+N.F.: 112
+Month: 8
+Day: 12
+State: Created
+Content: Chapter
 ---
-
 ## Summary
 
 ## Stages
-
 #### Part A
-
 - [[01-01 Syndicate]]
 - [[01-02 Assassination]]
 - [[01-03 Encounter Legion]]
@@ -23,12 +29,10 @@ modified: 2026-05-04T21:28:28.961Z
 - [[SD-01-01 Support]]
 - [[SD-01-02 Head-to-head]]
 - [[SD-01-03 Broken Puppet]]
-
 #### Part B
-
 - [[02-01 Test]]
 - [[02-02 Surgery]]
 - [[02-03 Mania and the Doctor]]
 - [[02-03-RE Promise]]
 - [[02-04 The Second Round]]
--
+- 

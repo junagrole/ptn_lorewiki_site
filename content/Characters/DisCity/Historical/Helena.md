@@ -1,5 +1,14 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.963Z
-modified: 2026-05-04T21:28:28.963Z
+Tags:
+  - independence_war
+  - deceased
+  - scientist
+  - edge
+Short: EDGE researcher killed in the Nirvana Port Strike, covertly assisted the Guerrillas
+Sinner: false
+Gender: Female
+Affiliation: "[[EDGE]]"
+Storyrole: Background
+State: Created
+Content: Character
 ---

@@ -1,9 +1,14 @@
 ---
-publish: true
-created: 2026-08-24T20:31:49.540Z
-modified: 2026-08-24T20:52:39.349Z
+Tags:
+Short: As Parma intended, the manic battle activates the inheritance. Zoyas arrival puts an end to the battle but the Inheritance is now trying to bewitch the powerful Sinner instead.
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous: "[[04-09 Trap]]"
+Next: "[[04-10-RE Bewitchment]]"
+State: Review
+Content: Stage
 ---
-
 Fighting the gang members [[Horo]] loses herself, her Mania getting out of control. The [[Inheritance]] resonates with the [[Mania]] around it, activating and strengthening it. In return [[Maniacs]] and [[Sinner]] losing control furthers the awakening of the Inheritance. A positive feedback loop that will end in disaster. The mastermind behind the [[Mania Weapon]] used gang members for this very purpose, creating a trap to cultivate the Inheritance.
 
 Nearing her limit Horo is looking more and more like a demon than a person. Seeing the girl on verge of turning into a [[Corruptors|Corruptor]], [[Chief]] is getting flashbacks to the [[Gray-haired Girl]] they couldn't save. Swearing that this time, they will save her.

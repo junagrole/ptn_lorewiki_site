@@ -1,5 +1,9 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - white_sands
+Short: A mobile wild west style town, full of scam artists trying to eek out a living in White Sands
+Area: "[[White Sands]]"
+Size: Town
+State: Created
+Content: Location
 ---

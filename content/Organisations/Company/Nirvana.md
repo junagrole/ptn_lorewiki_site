@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - eastside
+  - discity/corporation
+  - meta/antagonist
+Short:
+Structure: Company
+Purpose: Business
+Leadership: Unknown
+Headquarters: "[[Eastside]]"
+State: Created
+Content: Organisation
 ---

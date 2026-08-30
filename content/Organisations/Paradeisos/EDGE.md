@@ -1,9 +1,19 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-08-17T15:43:54.065Z
+Tags:
+  - edge
+  - paradeisos
+  - research
+  - politics
+  - mania
+  - reason
+Short:
+Structure: Secret Society
+Purpose: Anti Mania
+Leadership: Committee
+Headquarters: "[[DisCity]]"
+State: Created
+Content: Organisation
 ---
-
 ## Current Members
 
 | EDGE Number | Identity                                       | Since             |

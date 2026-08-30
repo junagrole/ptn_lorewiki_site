@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Tags:
+  - sinner/a_class
+  - legion
+  - missing
+Short: Legion member and later leader. Sister of Earl.
+Sinner: true
+Gender: Female
+Affiliation: "[[The Legion]]"
+Storyrole: Supporting
+State: Created
+Content: Character
 ---

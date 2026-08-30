@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Tags:
+  - sinner/a_class
+  - contaminated
+  - mania_crystal
+Short: Hellas close friend and fellow victim of Parma, heavily contaminated
+Sinner: true
+Gender: Female
+Storyrole: Background
+State: Created
+Content: Character
+Affiliation: "[[Organisations/Security Forces/MBCC|MBCC]]"
 ---

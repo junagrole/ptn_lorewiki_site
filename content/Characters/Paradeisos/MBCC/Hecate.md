@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Tags:
+  - sinner/a_class
+  - mbcc
+  - mystery
+Short: Overprotective of Chief, she slowly explores her emotions and befriends Hella
+Sinner: true
+Gender: Female
+Affiliation: "[[Organisations/Security Forces/MBCC|MBCC]]"
+Storyrole: Protagonist
+State: Created
+Content: Character
 ---

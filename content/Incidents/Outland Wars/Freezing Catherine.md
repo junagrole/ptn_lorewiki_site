@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.965Z
-modified: 2026-05-04T21:28:28.965Z
+Tags:
+  - independence_war
+  - edge
+Short: To deal with Catherine's worsening contamination EDGE places her in cryosleep
+Major: true
+Kind: Personal
+N.F.: 74
+Month: 12
+Day: 27
+State: Created
+Content: Incident
 ---

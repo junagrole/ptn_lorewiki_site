@@ -1,11 +1,16 @@
 ---
-publish: true
 aliases:
   - 03-07 "Proposal"
-created: 2026-08-23T12:30:23.523Z
-modified: 2026-08-24T21:48:13.376Z
+Tags:
+Short: Having lured out the Yagyu members, Chief uses subterfuge to probe them for information
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous: "[[03-06 Mania Weapon]]"
+Next: "[[03-08 Struggle of the Abandoned]]"
+State: Review
+Content: Stage
 ---
-
 Luring out the [[Yagyu]] gang members, Chief pretends to be a newbie Sheriff working with Ted that got taken by [[The Legion]] after the battle at [[SALVA Hospital]].
 
 Thinking he landed an intelligence windfall the Yagyu Executive offers Chief an alliance. Revealing that the gang alliance set up a trap for [[Zoya]] in the underground levels and that Chiefs target, the Legion Sinner who escaped from SALVA is already trapped half dead underground, too.

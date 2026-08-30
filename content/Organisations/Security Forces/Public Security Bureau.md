@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - discity
+  - corruption
+  - eastside
+Short:
+Structure: Agency
+Purpose: Police
+Leadership: Unknown
+Headquarters: "[[Eastside]]"
+State: Created
+Content: Organisation
 ---

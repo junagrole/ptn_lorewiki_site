@@ -1,5 +1,19 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.962Z
-modified: 2026-05-04T21:28:28.962Z
+Tags:
+  - farlands
+  - aurum_secretum
+  - apostle
+  - fraser
+  - campbell
+  - refugees
+Short: Hella follows the trace of the inheritance to Furor, Together with her new Friend Hypatia Campbell she defeats an Apostle of Ashes
+Arc:
+  - "[[Precarious Polis]]"
+  - "[[Hella's Adventure]]"
+Category: Event
+N.F.: 115
+Month:
+Day:
+State: Created
+Content: Chapter
 ---

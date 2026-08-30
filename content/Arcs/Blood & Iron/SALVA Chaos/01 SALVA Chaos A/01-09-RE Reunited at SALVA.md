@@ -1,10 +1,16 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.960Z
-modified: 2026-08-23T18:17:31.956Z
+Tags:
+  - kidnapping
+Pov:
+  - Chief
+Chapter: "[[SALVA Chaos]]"
+Previous: "[[01-09 Doctor Brand]]"
+Next:
+  - "[[02-01 Test]]"
+State: Complete
+Content: Stage
 ---
-
-After being knocked out by [[Dr. Iron]] you regain your sense facing the bright lights of an operating room. Sedated you're barely conscious, while Dr. Iron and a nurse note that your brain function is fine, apart from a damaged memory.
+After being knocked out by [[Dr. Iron]] you regain your sense facing the bright lights of an operating room. Sedated you're barely conscious, while Dr. Iron and a nurse note that your brain function is fine, apart from a damaged memory. 
 
 Measuring your [[M-Value]] gives them a big surprise though, even though you have been exposed to so many [[Maniacs]]. Even your two companions are completely stable after all the fights. Before you pass out again they discuss the origin of your power and what they could use you for.
 

@@ -1,9 +1,17 @@
 ---
-publish: true
+Tags:
+  - independence_war
+  - military
+  - edge
 aliases:
   - EDGE 08
   - Catherine
   - Augustus
-created: 2026-05-04T21:28:28.963Z
-modified: 2026-05-04T21:28:28.963Z
+Short: Hero of the independence War, now Leader of the DisCorps remains and EDGE 08
+Sinner: true
+Gender: Female
+Affiliation: "[[EDGE]]"
+Storyrole: Protagonist
+State: Created
+Content: Character
 ---

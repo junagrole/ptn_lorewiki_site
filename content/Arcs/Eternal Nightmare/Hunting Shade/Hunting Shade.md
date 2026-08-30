@@ -1,5 +1,17 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.962Z
-modified: 2026-05-04T21:28:28.962Z
+Tags:
+  - core_crisis
+  - dissea
+  - fac
+  - apostle
+Short:
+Arc:
+  - "[[Rustfire]]"
+  - "[[Eternal Nightmare]]"
+Category: Eternal Nightmare
+N.F.: 113
+Month: 9
+Day: 8
+State: Created
+Content: Chapter
 ---

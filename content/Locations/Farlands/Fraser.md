@@ -1,5 +1,9 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - aurum_secretum
+Short: Second biggest city on the continent. Amassed huge reserves of Hypercubes and pre Nightfall resources. Leader of the Farland Alliance.
+Area: "[[Farlands]]"
+Size: City
+State: Created
+Content: Location
 ---

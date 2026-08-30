@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-08-29T19:47:12.914Z
-modified: 2026-08-29T19:50:00.363Z
+Tags:
+  - deceased
+  - underground
+  - scum
+Short: Senior Underground agent working in Syndicate. Responsible for BR004 and the Manie Weapon experiments. Eventually permanently eliminated by Langley.
+Sinner: false
+Gender: Male
+Affiliation: "[[Underground]]"
+Storyrole: Antagonist
+State: Created
+Content: Character
 ---

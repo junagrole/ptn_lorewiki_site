@@ -1,9 +1,14 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.960Z
-modified: 2026-05-04T21:28:28.960Z
+Tags:
+Pov:
+  - Chief
+Chapter: "[[SALVA Chaos]]"
+Previous: "[[01-02 Assassination]]"
+Next:
+  - "[[SD-01-02 Head-to-head]]"
+State: Complete
+Content: Stage
 ---
-
 The three of you are cornered by the gang fights and can't break through. [[Nightingale]] calls and promises reinforcements a bit further ahead.
 
 [[Hecate]] buys you time, [[Ted]] complains, while [[Hella]] is searching, but finds only a dumpster. Turns out it contains their reinforcements. The bound Sinner [[K.K.]] protests her innocence, but Nightingale just tells you to get on with it and Shackle her. They will definitely find justification for arresting a [[Sinner]] in Syndicate later on.

@@ -1,5 +1,16 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.968Z
-modified: 2026-05-04T21:28:28.968Z
+Tags:
+  - mbcc
+  - sinner
+  - 9th_agency
+  - fac
+  - discity
+  - shepherd
+Short:
+Structure: Agency
+Purpose: Anti Mania
+Leadership: "[[Chief]]"
+Headquarters: "[[DisCity]]"
+State: Created
+Content: Organisation
 ---

@@ -1,14 +1,24 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.958Z
-modified: 2026-05-04T21:28:28.958Z
+Tags:
+  - west_district
+  - black_ring
+  - salva
+  - legion
+  - 9th_agency
+  - underground
+starting: N.F. 112/08
+ending: N.F. 112/10
+years:
+  - "112"
+State: Created
+Content: Arc
 ---
-
 ## Summary
 
-## Chapters
 
+## Chapters
 - [[Prologue]]
 - [[SALVA Chaos]]
 - [[Unclaimed Crypt]]
 - [[Keylan Square]]
+

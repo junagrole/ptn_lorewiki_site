@@ -1,9 +1,15 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.962Z
-modified: 2026-08-23T18:17:08.892Z
+Tags:
+  - kidnapping
+Short: Barely escaping Ninenty-Nine the team gets captured by Zoya personally
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous: "[[03-02 Highway Battle]]"
+Next: "[[03-03-RE Interrogation]]"
+State: Review
+Content: Stage
 ---
-
 With the car destroyed and [[Hella]] being trapped by the wreckage [[Hecate]] has to face [[The Legion]] assault on her own. While Hecate refuses an offer to join the Legion Hella crawls out of the wreckage. Furious over the drivers presumed death she kicks of the fight.
 
 Just then [[Ninety-Nine]] joins the fray, only to be stopped by Hella. Before any more pursuers can catch up the unexpectedly alive [[Che]] snatches one of the Legions cars.

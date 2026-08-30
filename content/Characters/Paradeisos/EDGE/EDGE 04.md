@@ -1,5 +1,13 @@
 ---
-publish: true
-created: 2026-05-04T21:28:28.964Z
-modified: 2026-05-04T21:28:28.964Z
+Tags:
+  - paradeisos
+  - edge
+  - nirvana
+Short: Recommended by Nirvana to the EDGE council
+Sinner: false
+Gender: Male
+Affiliation: "[[EDGE]]"
+Storyrole: Background
+Content: Character
+State: Created
 ---

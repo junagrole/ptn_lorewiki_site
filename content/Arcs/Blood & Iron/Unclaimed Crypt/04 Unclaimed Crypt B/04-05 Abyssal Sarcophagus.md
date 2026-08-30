@@ -1,13 +1,17 @@
 ---
-publish: true
-created: 2026-08-24T14:29:43.359Z
-modified: 2026-08-24T15:59:52.240Z
+Tags:
+Short: Finding the Inheritance presented like a showpiece the group gets ambushed by a Mania addled Horo. Only bluffing to be with the Legion gives her pause.
+Pov:
+  - Chief
+Chapter: "[[Unclaimed Crypt]]"
+Previous: "[[04-04 Contaminated Passage]]"
+Next: "[[04-06 Deception]]"
+State: Review
+Content: Stage
 ---
-
 With the [[Inheritance]] being displayed so openly the team discusses if it's a trap or a requirement to store it in the first place. Since the altar shows strange marking pointing to some ritual use.
 
 With [[Subject R]] nowhere in sight and [[Zoya]] closing in the group starts it descent, but is immediately ambushed by [[Horo]]. To the astonishment of [[Hella]], the assailant is a girl her age and height.
-
 > [!cite] Hella
 > ... How come the Master of Axes is so tiny? How old is she?
 
