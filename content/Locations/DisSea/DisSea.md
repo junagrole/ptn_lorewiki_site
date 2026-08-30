@@ -1,9 +1,0 @@
----
-publish: true
-created: 2026-05-04T21:28:28.967Z
-modified: 2026-05-04T21:28:28.968Z
----
-
-An inland sea formed in the impact crater of the [[Perishing Star]]. DisCity was established at it's shore to mine [[Hypercube|Hypercubes]]. After the [[DisSea explosion]] revealing [[BR000]] mining operations were severely compromised.
-
-To contain the contamination the [[Broken Frontline]] was established.
