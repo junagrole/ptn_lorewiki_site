@@ -1,13 +1,13 @@
 ---
 Tags:
-  - core_crisis
+  - lunar_new_year
 Short:
 Arc:
   - "[[Precarious Polis]]"
-Category: Main Event
+Category: Event
 NF: 115
-Month: 8
-Day: 7
+Month:
+Day:
 State: Created
 Content: Chapter
 ---

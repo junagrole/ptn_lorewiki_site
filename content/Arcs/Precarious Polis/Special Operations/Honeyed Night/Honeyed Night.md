@@ -1,13 +1,12 @@
 ---
 Tags:
-  - core_crisis
 Short:
 Arc:
   - "[[Precarious Polis]]"
-Category: Main Event
+Category: Event
 NF: 115
-Month: 8
-Day: 7
+Month: 7
+Day: 15
 State: Created
 Content: Chapter
 ---

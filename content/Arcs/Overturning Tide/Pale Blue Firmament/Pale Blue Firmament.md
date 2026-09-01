@@ -3,11 +3,11 @@ Tags:
   - core_crisis
 Short:
 Arc:
-  - "[[Precarious Polis]]"
-Category: Main Event
-NF: 115
-Month: 8
-Day: 7
+  - "[[Overturning Tide]]"
+Category: Main Story
+NF: 116
+Month: 5
+Day: 10
 State: Created
 Content: Chapter
 ---

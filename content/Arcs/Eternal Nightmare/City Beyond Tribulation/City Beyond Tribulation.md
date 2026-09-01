@@ -1,13 +1,13 @@
 ---
 Tags:
-  - core_crisis
 Short:
 Arc:
+  - "[[Eternal Nightmare]]"
   - "[[Precarious Polis]]"
-Category: Main Event
+Category: Eternal Nightmare
 NF: 115
-Month: 8
-Day: 7
+Month: 12
+Day: 30
 State: Created
 Content: Chapter
 ---

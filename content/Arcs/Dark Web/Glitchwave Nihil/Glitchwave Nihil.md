@@ -1,13 +1,14 @@
 ---
 Tags:
   - core_crisis
+  - anniversary
 Short:
 Arc:
-  - "[[Precarious Polis]]"
+  - "[[Dark Web]]"
 Category: Main Event
-NF: 115
-Month: 8
-Day: 7
+NF: 114
+Month: 7
+Day: 25
 State: Created
 Content: Chapter
 ---
